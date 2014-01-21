@@ -41,8 +41,11 @@ Github, Googledocs, Safe use of Dropbox
 * ##Tools for Material Culture and Art
 
 * ##Tools from Overlapping Domains: Digital Classics, Medieval Studies
+
 * ##Geographic Tools, Spatial Humanities
+
 * ##Visualization Tools
+
 
 
 
